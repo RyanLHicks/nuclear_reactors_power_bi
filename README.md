@@ -38,12 +38,11 @@
 
 #### Intrepetation
 - There are 412 active nuclear reactors and 209 deactivated reactors.
-- 7 unique operational reactor types and 11 accounting for the shutdown reactors.
+- Currently 7 unique operational reactor types and 11 accounting for the shutdown reactors.
 - 370K MWE of energy output and 105k MWE equivalent energy shutdown.
 - Median energy output for all operational reactors is 950MWE per reactor.
 - The USA, France and China have the most current nuclear reactors and total energy output.
-- Pressurized Water Reactors (PWRs) are the most common type.
-- Boiling Water Reactors seem to be the most effiecent type of reactor.
+- Though Pressurized Water Reactors (PWRs) are the most common type, boiling Water Reactors seem to be the most effiecent type of reactor.
 - In 1985, we saw the most energy added in nuclear energy along with PWR addition.
 
 ### Nuclear Reactor Types
