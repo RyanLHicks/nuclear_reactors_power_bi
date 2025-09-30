@@ -50,7 +50,7 @@
 
 ### Nuclear Reactor Types
 
-<img width="1282" height="727" alt="image" src="https://github.com/user-attachments/assets/d1d74313-5f5d-46bb-8bc8-77a0431a35c6" />
+![PBIDesktop_FL1Jb4AqEn](https://github.com/user-attachments/assets/3c1c00eb-d287-432f-9668-f3481cc001e9)
 
 #### Graphs and Data
 
@@ -75,7 +75,7 @@ If we use operational PWRs as an example, we can see that:
 
 ### Nuclear Reactor Models
 
-<img width="1286" height="727" alt="image" src="https://github.com/user-attachments/assets/22f8f9f1-e1b0-4992-baa4-d7b929431d7b" />
+![PBIDesktop_P7U3CItroo](https://github.com/user-attachments/assets/ef695652-4423-4e58-8805-20f156a91060)
 
 #### Graphs and Data
 
@@ -90,7 +90,7 @@ If the VVER V-320 is selected, we can see that:
 
 ### Nuclear Energy Countries
 
-<img width="1307" height="729" alt="image" src="https://github.com/user-attachments/assets/b7a85670-d3d5-469e-9b1e-956355e08ecc" />
+![PBIDesktop_ozeVwxTQ7k](https://github.com/user-attachments/assets/738f74c6-0420-4d1c-8db4-40a79d506a19)
 
 #### Graphs and Data
 
@@ -105,7 +105,7 @@ If operational USA reactors is selected, we can see that:
 
 ### Nuclear Reactor History
 
-<img width="1302" height="728" alt="image" src="https://github.com/user-attachments/assets/faedf83a-cf81-480a-a212-30ca310c31f7" />
+![PBIDesktop_1m3ooVQxfj](https://github.com/user-attachments/assets/2bb45e14-dfb7-4c0b-8a4a-3bd2fc66ea68)
 
 #### Graphs and Data
 
