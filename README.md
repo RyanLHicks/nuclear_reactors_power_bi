@@ -3,25 +3,26 @@
 ## Introduction
 ![PBIDesktop_TJFIM2LRtC](https://github.com/user-attachments/assets/dc7ae728-fd4d-4cda-b9e2-51520d31dc0e)
 
-### Background
-- This nuclear reactor analysis is part of a 4 part learning journey so I can effictively learn top programs used by data analysts. This section mainly focuses on visualization and presentation of data through graphs and statistics. I pinpoint certain metrics to get a good picture of the nuclear reactor landscape by using Power BI as a tool for storytelling and insights. I chose nuclear power as a subject because it's extremly intriguing and I believe that it's the future of energy that most countries will adopt. I will show key metrics through recent years to back up my claim.  
-### Goals
+### 🌄 Background
+- This nuclear reactor analysis is part of a 4 part learning journey so I can effictively learn top programs used by data analysts. This section mainly focuses on visualization and presentation of data through graphs and statistics. I pinpoint certain metrics to get a good picture of the nuclear reactor landscape by using Power BI as a tool for storytelling and insights.
+- I chose nuclear power as a subject because it's extremly intriguing and I believe that it's the future of energy that most countries will adopt.
+### 🎯 Goals
 1. Understand the nuclear reactor types and occurance
 2. Uncover common reactor models
 3. Find out where this reactors are located
 4. Understand the past nuclear energy to look forward to the future. 
-### Plan
+### 🗓️ Plan
 - I will import all the data from the IAEA from my postgreSQL server database.
 - Use various visualizations from Power BI to see the data.
 - Interpret the data based on the tools used in Power BI and draw conclusions.
 
-## Procedure
+## Analysis
 
 ### Introduction Page
 
   <img width="1285" height="729" alt="image" src="https://github.com/user-attachments/assets/36845fd7-f062-42bd-bee3-ab2bd51d3856" />
 
-#### Graphs and Data
+#### 📊 Graphs and Data
 
 - Slicers that allow multiple variables to be manipulated giving options such as 'all', 'operational', and 'shutdown' reactors; desired year(s) or country(s)
 
@@ -39,7 +40,7 @@
 
   <img width="1301" height="221" alt="image" src="https://github.com/user-attachments/assets/6dd9eec4-b377-4182-8926-7cf64253dd4a" />
 
-#### Intrepretation
+#### 🔍 Intrepretation
 - There are 412 active nuclear reactors and 209 deactivated reactors.
 - Currently 7 unique operational reactor types and 11 accounting for the shutdown reactors.
 - 370K MWE of energy output and 105k MWE equivalent energy shutdown.
@@ -52,7 +53,7 @@
 
 ![PBIDesktop_FL1Jb4AqEn](https://github.com/user-attachments/assets/3c1c00eb-d287-432f-9668-f3481cc001e9)
 
-#### Graphs and Data
+#### 📊 Graphs and Data
 
 - Slicers that give options for operational, shutdown, or all reactors. Tile section also allows the user to breakdown each reactor type and see multiple or individual statistics.
 
@@ -66,7 +67,7 @@
 
 <img width="1298" height="224" alt="image" src="https://github.com/user-attachments/assets/df7b043e-3674-46e7-96ec-56cf1b0b1da5" />
 
-#### Intrepretation
+#### 🔍 Intrepretation
 
 If we use operational PWRs as an example, we can see that:
 - 28 countries are involved
@@ -77,7 +78,7 @@ If we use operational PWRs as an example, we can see that:
 
 ![PBIDesktop_P7U3CItroo](https://github.com/user-attachments/assets/ef695652-4423-4e58-8805-20f156a91060)
 
-#### Graphs and Data
+#### 📊 Graphs and Data
 
 - This section follows similar slicers from the previous section but the only difference is the model type for selectiability.
 
@@ -92,11 +93,11 @@ If the VVER V-320 is selected, we can see that:
 
 ![PBIDesktop_ozeVwxTQ7k](https://github.com/user-attachments/assets/738f74c6-0420-4d1c-8db4-40a79d506a19)
 
-#### Graphs and Data
+#### 📊 Graphs and Data
 
 - This section follows similar slicers from the previous section but the only difference is the countries are now selectable.
   
-#### Intrepretation
+#### 🔍 Intrepretation
 
 If operational USA reactors is selected, we can see that: 
 - They have 92 total nuclear reactors, leading all the countries.
@@ -107,11 +108,11 @@ If operational USA reactors is selected, we can see that:
 
 ![PBIDesktop_1m3ooVQxfj](https://github.com/user-attachments/assets/2bb45e14-dfb7-4c0b-8a4a-3bd2fc66ea68)
 
-#### Graphs and Data
+#### 📊 Graphs and Data
 
 - This section follows similar slicers from the previous section but the only difference is the years are now selectable.
   
-#### Intrepretation
+#### 🔍Intrepretation
 
 If 1985 is selected without changing the status, we see that:
 - 18 countries were involved.
@@ -120,16 +121,20 @@ If 1985 is selected without changing the status, we see that:
 
 ## Conclusion
 
-### Skills Learned
-- Power BI
-- DAX
-- Power Query
-- Data control and insertion
-- Git
-- Github
+### 💡 Reflection
+- The USA leads the global nuclear reactor landscape with total reactors in operation and total output.
+- 1985 was the most popular year in history for nuclear reactors.
+- PWRs are the most adoped type of reactor adopted in the current age.
+- The VVER V-320 has the most models currently in operation.
 
-### Reflection
+### 💪 Skills Learned
+- Power BI visualization
+- DAX editiing 
+- Power Query editing 
+- Data control and insertion
+- Git repositories
+- Github presentations
 
 ### Sources
-
+[IAEA 2024 Nuclear Energy Data](file:///C:/Users/ryano/My%20Drive/Be%20Bob/Data%20Projects/nuclear_reactors/Data/raw/RDS-2_44.pdf)
 
