@@ -1,0 +1,12 @@
+"id","type_code","type_description"
+1,BWR,Boiling Light-Water Cooled and Moderated Reactor
+2,FBR,Fast Breeder Reactor
+3,GCR,"Gas Cooled, Graphite Moderated Reactor"
+4,HTGR,High Temperature Gas Cooled Reactor
+5,HWGCR,"Heavy-Water Moderated, Gas Cooled Reactor"
+6,HWLWR,"Heavy-Water Moderated, Boiling Light-Water Cooled Reactor"
+7,LWGR,"Light-Water Cooled, Graphite Moderated Reactor"
+8,PHWR,Pressurized Heavy-Water Moderated and Cooled Reactor
+9,PWR,Pressurized Light-Water Moderated and Cooled Reactor
+10,SGHWR,Steam Generating Heavy-Water Reactor
+11,X,Other

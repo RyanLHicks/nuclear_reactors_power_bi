@@ -1,0 +1,4 @@
+"id","fuel_name","description"
+1,Enriched Uranium Dioxide (UO2),The most common type of nuclear fuel for light-water reactors like PWR and BWR. The Uranium-235 isotope is enriched to 3-5%.
+2,Natural Uranium Dioxide,"Used in heavy-water reactors like the PHWR (CANDU), which do not require the uranium to be enriched."
+3,Mixed Oxide (MOX),A mix of plutonium and natural or depleted uranium. Used in some light-water reactors and is the primary fuel for Fast Breeder Reactors (FBR).
