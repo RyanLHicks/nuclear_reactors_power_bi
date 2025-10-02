@@ -4,12 +4,12 @@
 ![PBIDesktop_TJFIM2LRtC](https://github.com/user-attachments/assets/dc7ae728-fd4d-4cda-b9e2-51520d31dc0e)
 
 ### 🌄 Background
-- This nuclear reactor analysis is part of a 4 part learning journey so I can effictively learn top programs used by data analysts. This section mainly focuses on visualization and presentation of data through graphs and statistics. I pinpoint certain metrics to get a good picture of the nuclear reactor landscape by using Power BI as a tool for storytelling and insights.
-- I chose nuclear power as a subject because it's extremly intriguing and I believe that it's the future of energy that most countries will adopt.
+- This nuclear reactor analysis is part of a 4-part learning journey so I can effectively learn top programs used by data analysts. This section mainly focuses on visualization and presentation of data through graphs and statistics. I pinpoint certain metrics to get a good picture of the nuclear reactor landscape by using Power BI as a tool for storytelling and insights.
+- I chose nuclear power as a subject because it's extremely intriguing and I believe that it's the future of energy that most countries will adopt.
 ### 🎯 Goals
-1. Understand the nuclear reactor types and occurance
-2. Uncover common reactor models
-3. Find out where this reactors are located
+1. Understand the nuclear reactor types and occurrence.
+2. Uncover common reactor models.
+3. Find out where these reactors are located.
 4. Understand the past nuclear energy to look forward to the future. 
 ### 🗓️ Plan
 - I will import all the data from the IAEA from my postgreSQL server database.
@@ -40,13 +40,14 @@
 
   <img width="1301" height="221" alt="image" src="https://github.com/user-attachments/assets/6dd9eec4-b377-4182-8926-7cf64253dd4a" />
 
-#### 🔍 Intrepretation
+#### 🔍 Interpretation
+
 - There are 412 active nuclear reactors and 209 deactivated reactors.
 - Currently 7 unique operational reactor types and 11 accounting for the shutdown reactors.
 - 370K MWE of energy output and 105k MWE equivalent energy shutdown.
 - Median energy output for all operational reactors is 950MWE per reactor.
 - The USA, France and China have the most current nuclear reactors and total energy output.
-- Though Pressurized Water Reactors (PWRs) are the most common type, boiling Water Reactors seem to be the most effiecent type of reactor.
+- Though Pressurized Water Reactors (PWRs) are the most common type, boiling Water Reactors seem to be the most efficient type of reactor.
 - In 1985, we saw the most energy added in nuclear energy along with PWR addition.
 
 ### Nuclear Reactor Types
@@ -67,7 +68,7 @@
 
 <img width="1298" height="224" alt="image" src="https://github.com/user-attachments/assets/df7b043e-3674-46e7-96ec-56cf1b0b1da5" />
 
-#### 🔍 Intrepretation
+#### 🔍 Interpretation
 
 If we use operational PWRs as an example, we can see that:
 - 28 countries are involved
@@ -80,7 +81,7 @@ If we use operational PWRs as an example, we can see that:
 
 #### 📊 Graphs and Data
 
-- This section follows similar slicers from the previous section but the only difference is the model type for selectiability.
+- This section follows similar slicers from the previous section but the only difference is the model type for selection.
 
 #### Intrepretation
 
@@ -97,7 +98,7 @@ If the VVER V-320 is selected, we can see that:
 
 - This section follows similar slicers from the previous section but the only difference is the countries are now selectable.
   
-#### 🔍 Intrepretation
+#### 🔍 Interpretation
 
 If operational USA reactors is selected, we can see that: 
 - They have 92 total nuclear reactors, leading all the countries.
@@ -112,11 +113,11 @@ If operational USA reactors is selected, we can see that:
 
 - This section follows similar slicers from the previous section but the only difference is the years are now selectable.
   
-#### 🔍Intrepretation
+#### 🔍Interpretation
 
 If 1985 is selected without changing the status, we see that:
 - 18 countries were involved.
-- There was 40 total reactors built, which was the highest history has seen. If we switch over to operational we can see that 6 were taken offline when they were built in 1985.
+- There were 40 total reactors built, which was the highest in history. If we switch over to operational, we can see that 6 were taken offline when they were built in 1985.
 - An output of 40K MWE and 981 MWE per reactor.
 
 ## Conclusion
@@ -124,19 +125,19 @@ If 1985 is selected without changing the status, we see that:
 ### 💡 Reflection
 - The USA leads the global nuclear reactor landscape with total reactors in operation and total output.
 - 1985 was the most popular year in history for nuclear reactors.
-- PWRs are the most adoped type of reactor adopted in the current age.
+- PWRs are the most adopted type of reactor adopted in the current age.
 - The VVER V-320 has the most models currently in operation.
 
 ### 💪 Skills Learned
 - Power BI visualization
-- DAX editiing 
+- DAX editing 
 - Power Query editing 
 - Data control and insertion
 - Git repositories
 - Github presentations
 
-### Sources
+### 💻 Sources
 - [IAEA 2023 Nuclear Energy Data](https://github.com/RyanLHicks/nuclear_reactors_power_bi/blob/main/RDS-2_44.pdf)
 - Power BI
-- 
+- Github
 
