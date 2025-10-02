@@ -1,0 +1,7 @@
+"id","reactor_type_code","number_of_units","full_outage_hours_per_unit","planned_outage_pct","unplanned_outage_pct","external_outage_pct"
+1,PWR,306,1354,72.9,21.7,5.4
+2,BWR,42,564,90.1,9.2,0.7
+3,PHWR,46,1835,90.8,8.7,0.5
+4,LWGR,11,1535,97.3,2.7,0.0
+5,GCR,8,2300,67.5,31.2,0.0
+6,FBR,2,2731,95.9,4.1,0.0
