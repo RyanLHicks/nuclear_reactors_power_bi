@@ -138,6 +138,3 @@ If 1985 is selected without changing the status, we see that:
 
 ### 💻 Sources
 - [IAEA 2023 Nuclear Energy Data](https://github.com/RyanLHicks/nuclear_reactors_power_bi/blob/main/RDS-2_44.pdf)
-- Power BI
-- Github
-
